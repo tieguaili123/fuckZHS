@@ -13,8 +13,8 @@ from utils import showImage, cookie_jar_to_list
 from utils import getConfigPath, getRealPath, versionCmp
 
 DEFAULT_CONFIG = {
-    "username": "",
-    "password": "",
+    "username": "17661343263",
+    "password": "Aa17661343263",
     "qrlogin": True,
     "save_cookies": True,
     "proxies": {},
